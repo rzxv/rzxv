@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Omar
 
-<!--
-**rzxv/rzxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year **BSc Computer Science** student at the **University of Portsmouth**, graduating in **2027**.
 
-Here are some ideas to get you started:
+I'm interested in how software can solve real-world problems, especially in **robotics**, **AI and machine learning**, and **human-computer interaction**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **Spider-inspired inspection drone (final-year project — in progress):** Exploring a robotics application for inspection-site use, with HCI and AI/ML as potential future directions.
+- **Spider gait optimisation (group coursework — in progress):** Contributing to a MATLAB-based group project investigating genetic algorithms for spider gait optimisation.
+
+## Projects
+
+- **[Sandwich Shop](https://github.com/rzxv/sandwich_shop)** — A Dart/Flutter coursework app with interactive order controls, reusable widgets and widget tests.
+- **Smart Home Device Simulator** — A Python coursework project using object-oriented programming to model and control smart-home devices. *Repository link to be added if/when the code is ready to publish.*
+
+## Technologies I've used
+
+`Python` · `Dart` · `Flutter` · `SQL` · `HTML` · `Git/GitHub` · `MATLAB (coursework)`
+
+I'm currently looking for **2027 graduate opportunities**.
